@@ -46,7 +46,7 @@ This project combines descriptive statistics and statistical testing:
 Home advantage is a multifactorial phenomenon, not a single-cause effect \
 While crowd influence appears statistically significant, it does not fully explain home performance differences 
 
-## Software and Packages
+## Software & Packages
 
 - *R* (Version 4.4.1) 
 - *tidyverse* 
